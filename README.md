@@ -8,6 +8,6 @@ The GSMA organised its joyn Innovation Challenge Workshop on November 8th in Ber
 
 Developers are invited to register their interest to participate the challenge here and submit their final application before 12th December. The best entry will receive the prestigious ‘joyn Innovation Challenge Award’ that recognises the most innovative, compelling and creative idea developed using the joyn platform. The best new ideas will be showcased on the GSMA’s exhibition stand at the Mobile World Congress, 2013. 
 
-If you are unfamiliar with git tool here you will find all you need to start up:
+If you are unfamiliar with git tool here you will find all you need to start up: 
 
 http://rogerdudler.github.com/git-guide/index.html
