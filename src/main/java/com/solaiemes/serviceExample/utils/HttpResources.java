@@ -4,14 +4,10 @@ public class HttpResources {
 	
 	public static String getBaseHost() {
 		return "http://api.oneapi-gw.gsma.com/";
-//		return "http://192.168.0.48:8080/rcsbox-servlet-oma/";
-//		return "http://80.81.127.140:8080/rcsbox-servlet-oma/";
 	}
 	
 	public static String getNotifierBaseHost() {
 		return "http://api.oneapi-gw.gsma.com/";
-//		return "http://192.168.0.48:8280/";
-//		return "http://80.81.127.140:8380/";
 	}
 
 	public static String getSubscriptionsResource(String username, String type) {
